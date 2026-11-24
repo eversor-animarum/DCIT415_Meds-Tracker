@@ -1,5 +1,4 @@
-# Meds Tracker - A Medication Management and Adherence App
-# Medication Management and Caregiver Monitoring App
+# Meds Tracker - A Medication Management and Caregiver Monitoring App
 
 A mobile application designed to help users organize their medications, manage medication schedules, receive reminders, track doses, and share medication adherence information with approved caregivers or trusted contacts.
 
